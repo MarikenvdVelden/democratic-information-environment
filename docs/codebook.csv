@@ -1,0 +1,318 @@
+variable,question,value,label,wording
+sex,Sex,1,Male,Man
+sex,Sex,2,Female,Vrouw
+lhbtiq_q,LHBTIQ,1,Which of the groups listed below do you identify with? ,Met welke van de hieronder aangeven groep(en) identificeert u zich?
+lhbtiq,LBTIQ,1,Yes,Ja
+lhbtiq,LBTIQ,2,No,Nee
+lhbtiq,LBTIQ,3,Prefer not to say,Liever niet zeggen
+education,Education,1,Low,Praktisch-opgeleid
+education,Education,2,Medium,Middel-opgeleid
+education,Education,3,High,Theoretisch-opgeleid
+ethnicity,Ethnicity,1,Dutch,Nederlandse achtergrond
+ethnicity,Ethnicity,2,EU,Europese achtergrond
+ethnicity,Ethnicity,3,Former Dutch colonies,Afkomstig uit voormalige Nederlandse koloniën
+ethnicity,Ethnicity,4,North-Africa & Middle East,Afkomstig uit Noord Afrika of Midden-Oosten
+ethnicity,Ethnicity,5,Other,Anders
+region,Region,1,"Three big cities (Amsterdam, Rotterdam, The Hague)","Een van de 3 grote steden of randgemeenten: Amsterdam (plus Diemen, Ouder-Amstel, Landsmeer, Amstelveen); 
+                                 Rotterdam (plus Schiedam, Capelle aan den IJssel, Krimpen aan den IJssel, Nederlek, Ridderkerk, Barendrecht, Albrandswaard; Den Haag (plus Leidschendam, Voorburg, Rijswijk, Wassenaar, Wateringen)"
+region,Region,2,West of the country,"Het westen:  Noord-Holland, Zuid-Holland en Utrecht (exclusief een van de 3 grote steden)"
+region,Region,3,North  of the country,"Het noorden: Groningen, Friesland en Drenthe"
+region,Region,4,East  of the country,"Het oosten: Overijssel, Gelderland en Flevoland"
+region,Region,5,South  of the country,"Het zuiden: Zeeland, Noord-Brabant en Limburg"
+region,Region,6,suburbs of 3 major cities,Randgemeenten 3 grote steden
+urbanisation,Urbanisation,1,Very strongly urbanised,Zeer sterk (>=2500 omgevingsadressen/km2)
+urbanisation,Urbanisation,2,Strongly urbanised,Sterk (1500 tot 2500 omgevingsadressen/km2)
+urbanisation,Urbanisation,3,Medium urbanised,Matig (1000 tot 1500 omgevingsadressen/km2)
+urbanisation,Urbanisation,4,Lowly urbanised,Weinig (500 tot 1000 omgevingsadressen/km2)
+urbanisation,Urbanisation,5,Not urbanised,Niet (<500 omgevingsadressen/km2)
+religion_q,Religion,1,Which of the following best describes your religion or religious identity?,Welke van de volgende beschrijft het beste uw religie of religieuze identiteit?
+religion,Religion,1,No religion/atheist/agnost,Geen religie / Atheïst / Agnost
+religion,Religion,2,"Christian (Catholic, Orthodox, Protestant, etc)","Christen (Katholiek, Protestants, Orthodox, enz.)"
+religion,Religion,3,Muslim,Moslim
+religion,Religion,4,Jewish,Joods
+religion,Religion,5,Hindu,Hindoe
+religion,Religion,6,Budist,Boeddhist
+religion,Religion,7,Other,Anders
+religion,Religion,99,Prefer not to say,Dat zeg ik liever niet
+A1_1,Intention to Vote,1,I would definitely vote,Ik zou zeker stemmen
+A1_1,Intention to Vote,2,I would probably vote,Ik zou waarschijnlijk stemmen
+A1_1,Intention to Vote,3,I might vote,Ik zou misschien stemmen
+A1_1,Intention to Vote,4,I would probably not vote,Ik zou waarschijnlijk niet stemmen
+A1_1,Intention to Vote,5,I would definitely not vote,Ik zou zeker niet stemmen
+A1_1,Intention to Vote,6,I am not allowed to vote,Ik mag niet stemmen
+A1_2_statements,Meaning of Voting,1,I vote to influence government policy,Ik stem om invloed uit te oefenen op het beleid van de regering
+A1_2_statements,Meaning of Voting,2,"With my vote, I help determine the direction the country takes",Met mijn stem help ik te bepalen welke richting het land opgaat
+A1_2_statements,Meaning of Voting,3,I vote for the party that best represents my interests,Ik stem op de partij die het beste opkomt voor mijn belangen
+A1_2_statements,Meaning of Voting,4,I vote so that my opinion is heard in politics,Ik stem zodat mijn mening wordt gehoord in de politiek
+A1_2_statements,Meaning of Voting,5,"With my vote, I show what is important to me",Met mijn stem laat ik zien wat ik belangrijk vind
+A1_2_statements,Meaning of Voting,6,"By voting, I show my values and beliefs",Door te stemmen laat ik mijn waarden en overtuigingen zien
+A1_2_statements,Meaning of Voting,7,"With my vote, I show who I am and what I stand for",Met mijn stem laat ik zien wie ik ben en waar ik voor sta
+A1_2_statements,Meaning of Voting,8,"For me, voting is a way to express my feelings about politics",Stemmen is voor mij een manier om mijn gevoelens over de politiek te uiten
+A1_2_statements,Meaning of Voting,9,I always vote for the same party because I am loyal to them,"Ik stem altijd op dezelfde partij, omdat ik trouw aan hen ben"
+A1_2_statements,Meaning of Voting,10,"With my vote, I show my connection to a political movement",Met mijn stem laat ik mijn verbondenheid met een politieke beweging zien
+A1_2_statements,Meaning of Voting,11,I always vote for the same party because I feel connected to it,"Ik stem telkens op dezelfde partij, omdat ik me ermee verbonden voel"
+A1_2_statements,Meaning of Voting,12,I feel a strong connection to the party I vote for,Ik voel een sterke band met de partij waarop ik stem
+A1_2_statements,Meaning of Voting,13,Voting is the right thing to do for me,Stemmen is voor mij het juiste om te doen
+A1_2_statements,Meaning of Voting,14,I feel morally obliged to vote,Ik voel me moreel verplicht om te stemmen
+A1_2_statements,Meaning of Voting,15,Voting is a matter of right and wrong for me,Stemmen is voor mij een kwestie van goed en fout
+A1_2_statements,Meaning of Voting,16,I vote because I believe it is morally right to make my voice heard,Ik stem omdat ik vind dat het moreel juist is om mijn stem te laten horen
+A1_2_statements,Meaning of Voting,17,Voting is pointless; politicians do what they want anyway,Stemmen heeft geen zin; politici doen wat ze zelf willen
+A1_2_statements,Meaning of Voting,18,My vote doesn't make any difference,Mijn stem maakt geen enkel verschil
+A1_2_statements,Meaning of Voting,19,The political system is too corrupt to deserve my vote,Het politieke systeem is te corrupt om mijn stem te verdienen
+A1_2_statements,Meaning of Voting,20,Elections are just a sham; real power lies elsewhere,Verkiezingen zijn slechts schijn; echte macht ligt ergens anders
+A1_2_answers,Meaning of Voting,1,Fully disagree,Helemaal niet mee eens
+A1_2_answers,Meaning of Voting,2,Disagree,Niet mee eens
+A1_2_answers,Meaning of Voting,3,Neutral,Neutraal
+A1_2_answers,Meaning of Voting,4,Agree,Mee eens
+A1_2_answers,Meaning of Voting,5,Fully agree,Helemaal mee eens
+A1_2_answers,Meaning of Voting,99,Don't Know,Geen mening
+A1_3,Most Important Meaning of (Not-)Voting,1,I vote to influence government policy,Ik stem om invloed uit te oefenen op het beleid van de regering
+A1_3,Most Important Meaning of (Not-)Voting,2,"With my vote, I help determine the direction the country takes",Met mijn stem help ik te bepalen welke richting het land opgaat
+A1_3,Most Important Meaning of (Not-)Voting,3,I vote for the party that best represents my interests,Ik stem op de partij die het beste opkomt voor mijn belangen
+A1_3,Most Important Meaning of (Not-)Voting,4,I vote so that my opinion is heard in politics,Ik stem zodat mijn mening wordt gehoord in de politiek
+A1_3,Most Important Meaning of (Not-)Voting,5,"With my vote, I show what is important to me",Met mijn stem laat ik zien wat ik belangrijk vind
+A1_3,Most Important Meaning of (Not-)Voting,6,"By voting, I show my values and beliefs",Door te stemmen laat ik mijn waarden en overtuigingen zien
+A1_3,Most Important Meaning of (Not-)Voting,7,"With my vote, I show who I am and what I stand for",Met mijn stem laat ik zien wie ik ben en waar ik voor sta
+A1_3,Most Important Meaning of (Not-)Voting,8,"For me, voting is a way to express my feelings about politics",Stemmen is voor mij een manier om mijn gevoelens over de politiek te uiten
+A1_3,Most Important Meaning of (Not-)Voting,9,I always vote for the same party because I am loyal to them,"Ik stem altijd op dezelfde partij, omdat ik trouw aan hen ben"
+A1_3,Most Important Meaning of (Not-)Voting,10,"With my vote, I show my connection to a political movement",Met mijn stem laat ik mijn verbondenheid met een politieke beweging zien
+A1_3,Most Important Meaning of (Not-)Voting,11,I always vote for the same party because I feel connected to it,"Ik stem telkens op dezelfde partij, omdat ik me ermee verbonden voel"
+A1_3,Most Important Meaning of (Not-)Voting,12,I feel a strong connection to the party I vote for,Ik voel een sterke band met de partij waarop ik stem
+A1_3,Most Important Meaning of (Not-)Voting,13,Voting is the right thing to do for me,Stemmen is voor mij het juiste om te doen
+A1_3,Most Important Meaning of (Not-)Voting,14,I feel morally obliged to vote,Ik voel me moreel verplicht om te stemmen
+A1_3,Most Important Meaning of (Not-)Voting,15,Voting is a matter of right and wrong for me,Stemmen is voor mij een kwestie van goed en fout
+A1_3,Most Important Meaning of (Not-)Voting,16,I vote because I believe it is morally right to make my voice heard,Ik stem omdat ik vind dat het moreel juist is om mijn stem te laten horen
+A1_3,Most Important Meaning of (Not-)Voting,17,Voting is pointless; politicians do what they want anyway,Stemmen heeft geen zin; politici doen wat ze zelf willen
+A1_3,Most Important Meaning of (Not-)Voting,18,My vote doesn't make any difference,Mijn stem maakt geen enkel verschil
+A1_3,Most Important Meaning of (Not-)Voting,19,The political system is too corrupt to deserve my vote,Het politieke systeem is te corrupt om mijn stem te verdienen
+A1_3,Most Important Meaning of (Not-)Voting,20,Elections are just a sham; real power lies elsewhere,Verkiezingen zijn slechts schijn; echte macht ligt ergens anders
+A2_1,Vote Intention,1,PVV,PVV
+A2_1,Vote Intention,2,GroenLinks-PvdA,GroenLinks-PvdA
+A2_1,Vote Intention,3,VVD,VVD
+A2_1,Vote Intention,4,NSC,NSC
+A2_1,Vote Intention,5,D66,D66
+A2_1,Vote Intention,6,BBB,BBB
+A2_1,Vote Intention,7,CDA,CDA
+A2_1,Vote Intention,8,SP,SP
+A2_1,Vote Intention,9,Forum voor Democratie,Forum voor Democratie
+A2_1,Vote Intention,10,Partij voor de Dieren,Partij voor de Dieren
+A2_1,Vote Intention,11,SGP,SGP
+A2_1,Vote Intention,12,DENK,DENK
+A2_1,Vote Intention,13,ChristenUnie,ChristenUnie
+A2_1,Vote Intention,14,Volt,Volt
+A2_1,Vote Intention,15,JA21,JA21
+A2_1,Vote Intention,16,Other party,Andere partij
+A2_1,Vote Intention,17,Blance,Blance
+A2_1,Vote Intention,18,Don't know,Weet ik nog niet
+A2_2,Certainty of vote intent,1,I will definitely vote for this party,Ik ga zeker op deze partij stemmen
+A2_2,Certainty of vote intent,2,"I'm fairly sure, but I'm still a little unsure","Ik ben redelijk zeker, maar ik twijfel nog een beetje"
+A2_2,Certainty of vote intent,3,"Not so sure, I'm still undecided between this party and others","Niet zo zeker, ik twijfel nog tussen deze en andere partijen"
+A2_3,considers other party,1,Which (other) parties are you considering voting for?,Welke (andere) partijen overweegt u om op te stemmen?
+A4_1,coalition preference,1,"If you were in charge, how many and which parties would be in the government?","Als u het voor het zeggen zou hebben, hoeveel en welke partijen zouden er in de regering zitten?"
+A4_2,coalition exclusion,1,And which parties would definitely not be in the government if you were in charge?,En welke partijen zouden zeker niet in de regering zitten als u het voor het zeggen zou hebben?
+A5,What was important to you in deciding how to vote?,1,Party manifesto's,Het lezen van verkiezingsprogramma's
+A5,What was important to you in deciding how to vote?,2,VAA's,Het gebruiken van stemhulpen
+A5,What was important to you in deciding how to vote?,3,Debates,Het kijken van debatten
+A5,What was important to you in deciding how to vote?,4,Listen/watch/ read nterviews with party leaders,"Interviews met lijsttrekkers kijken, lezen of luisteren"
+A5,What was important to you in deciding how to vote?,5,People in my environment,Mensen in mijn omgeving
+A5,What was important to you in deciding how to vote?,6,Experts in media,Experts in de media
+A5,What was important to you in deciding how to vote?,7,Influencers on social media,Influencers op social media
+A5,What was important to you in deciding how to vote?,8,Past performance of parties,Hoe partijen in het verleden gepreseteerd hebben
+A5,What was important to you in deciding how to vote?,9,Voting strategically,Het uitbrengen van een strategisch stem
+A5,What was important to you in deciding how to vote?,10,Other,Anders
+A6,Which party should deliver the prime minister?,1,45,D66
+A6,Which party should deliver the prime minister?,2,298,PVV
+A6,Which party should deliver the prime minister?,3,828,VVD
+A6,Which party should deliver the prime minister?,4,1234,GroenLinks-PvdA
+A6,Which party should deliver the prime minister?,5,1157,CDA
+A6,Which party should deliver the prime minister?,6,9011,JA21
+A6,Which party should deliver the prime minister?,7,5855,Forum voor Democratie
+A6,Which party should deliver the prime minister?,8,9010,BBB
+A6,Which party should deliver the prime minister?,9,1178,SGP
+A6,Which party should deliver the prime minister?,10,1459,ChristenUnie
+A6,Which party should deliver the prime minister?,11,1363,SP
+A6,Which party should deliver the prime minister?,12,1467,Partij voor de Dieren
+A6,Which party should deliver the prime minister?,13,5856,DENK
+A6,Which party should deliver the prime minister?,14,714,50PLUS
+A6,Which party should deliver the prime minister?,15,7355,Volt
+A6,Which party should deliver the prime minister?,16,0,Other party
+A7,What did you notice about the campaign,1,Notice about campaign,Wat is u opgevallen aan de campagne?
+B1,parties in the news (partyfacts coding),1,Were the parties listed below conspicuous or inconspicuous in the news over the past two weeks?,Waren de onderstaande partijen in de afgelopen twee weken onopvallend of opvallend in het nieuws?
+B1_answers,parties in the news (partyfacts coding),1,Haven't heard or seen anything,Niets van gehoord of gezien
+B1_answers,parties in the news (partyfacts coding),2,Didn't notice,Is mij niet opgevallen
+B1_answers,parties in the news (partyfacts coding),3,Did notice,Is mij opgevallen
+C1_1,Issue association,1,Asylum seekers and migrants,Asielzoekers en migranten
+C1_1,Issue association,2,Mobility and infrastructure,Mobiliteit en infrastructuur
+C1_1,Issue association,3,Security (combating crime and terrorism),Veiligheid (criminaliteit- en terreurbestrijding)
+C1_1,Issue association,4,European Union and Euro,Europese Unie en Euro
+C1_1,Issue association,5,Healthcare,Gezondheidszorg
+C1_1,Issue association,6,Housing,Woningen
+C1_1,Issue association,7,"Climate, nature, nitrogen, and the environment","Klimaat, natuur, stikstof en milieu"
+C1_1,Issue association,8,"Standards, values, and civil liberties","Normen, waarden en vrijheidsrechten"
+C1_1,Issue association,9,"Economy, taxes, and government spending","Economie, belastingen en overheidsuitgaven"
+C1_1,Issue association,10,Education and science,Onderwijs en wetenschap
+C1_1,Issue association,11,Development aid,Ontwikkelingshulp
+C1_1,Issue association,12,"Work, income, and social security","Werk, inkomen en sociale zekerheid"
+C1_1,Issue association,13,Protection of the rule of law,Bescherming van de rechtsstaat
+C1_1,Issue association,14,Defense,Defensie
+C1_1,Issue association,15,Another topic,Een ander onderwerp
+C4,Isuse importance,1,issue-importance: Asylumseekers & Migrants,issue_importance - Asielzoekers en migranten
+C4,Isuse importance,2,issue-importance: Mobility & Infrastructure,issue_importance - Mobiliteit en infrastructuur
+C4,Isuse importance,3,issue-importance: Security,issue_importance - Veiligheid (criminaliteit- en terreurbestrijding)
+C4,Isuse importance,4,issue-importance: EU & Euro,issue_importance - Europese Unie en Euro
+C4,Isuse importance,5,issue-importance: Health Care,issue_importance - Gezondheidszorg
+C4,Isuse importance,6,issue-importance: Housing,issue_importance - Woningen
+C4,Isuse importance,7,issue-importance: Environment,"issue_importance - Klimaat, natuur en milieu"
+C4,Isuse importance,8,issue-importance: Norms & Values,"issue_importance - Normen, waarden en vrijheidsrechten"
+C4,Isuse importance,9,issue-importance: Economy,"issue_importance - Economie, belastingen en overheidsuitgaven"
+C4,Isuse importance,10,issue-importance: Education & Science,issue_importance - Onderwijs en wetenschap
+C4,Isuse importance,11,issue-importance: Development Aid,issue_importance - Ontwikkelingshulp
+C4,Isuse importance,12,issue-importance: Employment & Social Safety,"issue_importance - Werk, inkomen en sociale zekerheid"
+C4,Isuse importance,13,issue-importance: Different topic,issue_importance - Ander onderwerp
+D4,bullshit receptivity,1,The universe is the wisdom of irrational photons.,Het universum is de wijsheid van irrationele fotonen.
+D4,bullshit receptivity,2,The goal of biofeedback is to plant companion seeds rather than discontinuity.,Het doel van biofeedback is het planten van begeleidingszaden in plaats van discontinuïteit.
+D4,bullshit receptivity,3,Consciousness consists of electromagnetic resonance of quantum energy.,Bewustzijn bestaat uit elektromagnetische resonantie van kwantum energie.
+D4,bullshit receptivity,4,"Today, science tells us that the essence of nature is potential.",Tegenwoordig vertelt de wetenschap ons dat de essentie van de natuur potentieel is.
+E1,Vote recall,1,PVV,PVV
+E1,Vote recall,2,GroenLinks-PvdA,GroenLinks-PvdA
+E1,Vote recall,3,VVD,VVD
+E1,Vote recall,4,CDA,CDA
+E1,Vote recall,5,NSC,NSC
+E1,Vote recall,6,D66,D66
+E1,Vote recall,7,BBB,BBB
+E1,Vote recall,8,CDA,CDA
+E1,Vote recall,9,SP,SP
+E1,Vote recall,10,FvD,FvD
+E1,Vote recall,11,PvdD,PvdD
+E1,Vote recall,12,SGP,SGP
+E1,Vote recall,13,DENK,DENK
+E1,Vote recall,14,ChristenUnie,ChristenUnie
+E1,Vote recall,15,Volt,Volt
+E1,Vote recall,16,JA21,JA21
+E1,Vote recall,66,Other,Andere partij
+E1,Vote recall,77,Blanco,Blanco
+E1,Vote recall,88,I wasn't eligble to vote,Ik mocht (nog) niet stemmen
+E1,Vote recall,98,I didn't vote,Ik heb niet gestemd
+E2,Left-Right selfplacement,1,RILE self,Links-Rechtsplaatsing zelf
+E2,Left-Right selfplacement,2,self-placement conservative-progressive,"Hoe zou u uw politieke oriëntatie op een 5-puntsschaal beschrijven, variërend van progressief naar conservatief?"
+E3,Left-Right selfplacement parties (partyfacts code suffix),1,And where would you place the following parties on the same left-right scale?,En waar zou u de volgende partijen op dezelfde links-rechts schaal plaatsen?
+F6,Populist attitudes,1,You know right away if someone is good or bad if you know what their political affiliation is,Je weet gelijk of iemand goed of slecht is als je weet wat hun politieke voorkeur is
+F6,Populist attitudes,2,People who have a different political opinion than me are just ill-informed,Mensen die een andere politieke mening hebben dan ik zijn gewoon slecht geïnformeerd
+F6,Populist attitudes,3,People who have different political views than me are not immediately bad people,Mensen die een andere politieke mening hebben dan ik zijn niet direct slechte mensen
+F6,Populist attitudes,4,Politicians should always listen carefully to people's problems,Politici moeten altijd goed luisteren naar de problemen van mensen
+F6,Populist attitudes,5,Politicians need not spend time among ordinary people to do their jobs,Politici hoeven geen tijd te spenderen tussen gewone mensen om hun werk te doen
+F6,Populist attitudes,6,The will of the common people should be the highest principle in politics,De wil van het gewone volk zou het hoogste principe moeten zijn in de politiek
+F6,Populist attitudes,7,"Against their better judgment, politicians promise more than they can deliver.",Tegen beter weten in beloven politici meer dan ze kunnen waarmaken.
+F6,Populist attitudes,8,What is called `compromising` in politics is really just betraying your principles.,"Wat men in de politiek ‘het sluiten van compromissen’ noemt, is eigenlijk gewoon het verraden van je principes."
+F6,Populist attitudes,9,"A strong head of government is good for the Netherlands, even if it stretches the rules a bit to get things done.","Een sterke regeringsleider is goed voor Nederland, ook als deze de regels wat oprekt om dingen voor elkaar te krijgen."
+F6_answers,Populism,1,Strongly disagree,Helemaal niet mee eens
+F6_answers,Populism,2,Disagree,Niet mee eens
+F6_answers,Populism,3,Neutral,Neutraal
+F6_answers,Populism,4,Agree,Mee eens
+F6_answers,Populism,5,Strongly agree,Helemaal mee eens
+F6_answers,Populism,99,Don't know,Geen mening
+F1,Trust,1,The justice system,de rechtspraak
+F1,Trust,2,Journalism,de journalistiek
+F1,Trust,3,The government,de regering
+F1,Trust,4,The European Union,de Europese Unie
+F1,Trust,5,Political parties,politieke partijen
+F1,Trust,6,Dutch democracy,de Nederlandse democratie
+F1,Trust,7,Science,de wetenschap
+F1,Trust,8,Big corporations,grote bedrijven
+F1,Trust,9,Banks,banken
+F9,Autocratic sentiments,1,Elections in the Netherlands are fair,De verkiezingen in Nederland verlopen eerlijk
+F9,Autocratic sentiments,2,People like me have no say in what the government does,Mensen zoals ik hebben niets te zeggen over wat de regering doet
+F9,Autocratic sentiments,3,"Instead of solving major problems in society, the government often puts them off","In plaats van grote problemen in de samenleving op te lossen, schuift de overheid ze vaak voor zich uit"
+F9,Autocratic sentiments,4,It is worrying that politicians often make decisions that do not correspond with what the people want,Het is zorgelijk dat politici vaak beslissingen nemen die niet overeenkomen met wat het volk wil
+F9,Autocratic sentiments,5,I feel that government institutions treat some people unfairly,Ik heb het gevoel dat overheidsinstellingen sommige mensen oneerlijk behandelen
+F9,Autocratic sentiments,6,Government institutions have become too focused on a single ideology or agenda,Overheidsinstellingen zijn te veel gaan denken volgens één ideologie of agenda
+F9,Autocratic sentiments,7,"Behind the scenes, there is an elite that exercises power over political decisions",Achter de schermen opereert een elite die macht uitoefent op politieke beslissingen
+F9,Autocratic sentiments,8,Immigration threatens Dutch society,Immigratie bedreigt de Nederlandse samenleving
+F9,Autocratic sentiments,9,I am seriously concerned about where our society is headed,Ik maak me ernstige zorgen over waar het met onze samenleving naartoe gaat
+F9,Autocratic sentiments,10,Dutch society is good at adapting to new challenges,De Nederlandse samenleving kan zich goed aanpassen aan nieuwe uitdagingen
+F9,Autocratic sentiments,11,"In this day and age, we need a decisive leader more than a government that is always looking for compromises",In deze tijd hebben we meer aan een daadkrachtige leider dan aan een regering die altijd op zoek is naar compromissen
+F9,Autocratic sentiments,12,Authoritarian leaders are a greater threat to the Netherlands than the EU,Autoritaire leiders zijn een grotere bedreiging voor Nederland dan de EU
+F9,Autocratic sentiments,13,Dutch values and culture should be central to policy,Nederlandse waarden en cultuur zouden centraal moeten staan in het beleid
+F9,Autocratic sentiments,14,The interests of Dutch citizens who were born and raised here must be given greater weight than those of others,De belangen van Nederlanders die hier geboren en getogen zijn moeten zwaarder tellen dan die van anderen
+F9_answers,Autocratic sentiment,1,Strongly disagree,Helemaal niet mee eens
+F9_answers,Autocratic sentiment,2,Disagree,Niet mee eens
+F9_answers,Autocratic sentiment,3,Neutral,Neutraal
+F9_answers,Autocratic sentiment,4,Agree,Mee eens
+F9_answers,Autocratic sentiment,5,Strongly agree,Helemaal mee eens
+F9_answers,Autocratic sentiment,99,Don't know,Geen mening
+F10,view of future,1,I am seriously concerned about where our society is headed.,NA
+F10,view of future,2,Dutch society is able to adapt well to new challenges.,NA
+H1,Spiral of silence,1,I keep my opinions to myself,Ik houd mijn mening voor me
+H1,Spiral of silence,2,"I only stand up for my opinions before family, friends and colleagues","Ik kom alleen voor mijn mening uit tegenover familie, vrienden en collega’s"
+H1,Spiral of silence,3,"I always stand up for my opinions, even in front of strangers","Ik kom altijd voor mijn mening uit, ook tegenover onbekenden"
+H1_answers,Spiral of Silence,1,Strongly disagree,Helemaal niet mee eens
+H1_answers,Spiral of Silence,2,Disagree,Niet mee eens
+H1_answers,Spiral of Silence,3,Neutral,Neutraal
+H1_answers,Spiral of Silence,4,Agree,Mee eens
+H1_answers,Spiral of Silence,5,Strongly agree,Helemaal mee eens
+H1_answers,Spiral of Silence,99,Don't know,Geen mening
+H6,How warm or cold do you generally feel towards [party]?,1,9011,JA21
+H6,How warm or cold do you generally feel towards [party]?,2,1234,GroenLinks-PvdA
+H6,How warm or cold do you generally feel towards [party]?,3,828,VVD
+H6,How warm or cold do you generally feel towards [party]?,4,5856,DENK
+H6,How warm or cold do you generally feel towards [party]?,5,1157,CDA
+H6,How warm or cold do you generally feel towards [party]?,6,45,D66
+H6,How warm or cold do you generally feel towards [party]?,7,298,PVV
+H7,Feeling thermomether social groups,1,How warm or cold do you feel towards Muslims in general?,Hoe warm of koud voelt u zich in het algemeen tegenover moslims?
+H7,Feeling thermomether social groups,2,How warm or cold do you feel towards Christians in general?,Hoe warm of koud voelt u zich in het algemeen tegenover christenen?
+H7,Feeling thermomether social groups,3,How warm or cold do you feel towards atheists in general?,Hoe warm of koud voelt u zich in het algemeen tegenover atheïsten?
+H7,Feeling thermomether social groups,4,How warm or cold do you feel towards Jews in general?,Hoe warm of koud voelt u zich in het algemeen tegenover joden?
+H7,Feeling thermomether social groups,5,How warm or cold do you feel towards LGBTQ+ people in general?,Hoe warm of koud voelt u zich in het algemeen tegenover  LHBTIQ+-personen?
+H7,Feeling thermomether social groups,6,How warm or cold do you feel towards cis-heterosexual people in general?,Hoe warm of koud voelt u zich in het algemeen tegenover cis-heteroseksuelen?
+H27,Social groups exposed to,1,Social groups exposed to,Sociale groep gezien
+H28,experiment,1,"Control: In general, what do you think [Group H27] believes about the situation in Gaza?","Control: In het algemeen, wat denkt u dat [Groep H27] geloven over de situatie in Gaza"
+H28,experiment,2,"Treatment: Think of a family member, friend, or acquaintance you like who is [Group H27]. What do you think that person believes about the situation in Gaza?","Treatment: Denk aan een familielid, vriend of kennis die u aardig vindt en  [Groep H27] is. Wat denkt u dat die persoon gelooft over de situatie in Gaza?"
+H29,experiment,1,"Control: In general, why do you think [Group H27] holds these views on Gaza? What factors, experiences, or characteristics could explain their views?","Control: In het algemeen, waarom denkt u dat [Groep H27] deze opvattingen hebben over Gaza? Welke factoren, ervaringen of kenmerken zouden hun standpunten kunnen verklaren?"
+H29,experiment,2,"Treatment: Why do you think this person holds these views on Gaza? What factors, experiences, or characteristics could explain their views?","Treatment: Waarom denkt u dat die persoon deze opvattingen heeft over Gaza? Welke factoren, ervaringen of kenmerken zouden hun standpunten kunnen verklaren?"
+I1,news consumption,1,Television,Televisie
+I1,news consumption,2,Newspapers or opinion magazines (paper or online),Kranten of opiniebladen (op papier of online)
+I1,news consumption,3,Radio (including podcast and online),Radio (inclusief podcast en online)
+I1,news consumption,4,Online news sites (such as nu.nl),Online nieuwssites (zoals nu.nl)
+I1,news consumption,5,"Social media (such as Facebook, Twitter)","Social media (bijvoorbeeld Facebook, Twitter)"
+I1,news consumption,6,(Offline) conversations with people,(Offline) gesprekken met mensen
+I1,news consumption,7,News apps or push messages on your phone,Nieuwsapps of pushberichten op uw telefoon
+I21,news literacy,1,you do not know the exact source of this information,u niet precies weet wat de bron is van deze informatie
+I21,news literacy,2,you are going to find out for yourself if it is correct,u zelf gaat uitzoeken of het klopt
+I21,news literacy,3,you doubt information you encounter,u twijfelt aan informatie die u tegenkomt
+I22_q,SM use,1,On the days you used social media last week. How much time on average did you spend on this per day?,Op de dagen dat u afgelopen week gebruik maakte van social media. Hoeveel tijd besteedde u hier dan gemiddeld per dag aan?
+I22,SM use time,1,Less than 10 minutes,Minder dan tien minuten
+I22,SM use time,2,10 to 30 minutes,10 tot 30 minuten
+I22,SM use time,3,31 to 60 minutes,31 tot 60 minuten
+I22,SM use time,4,1 to 2 hours,1 tot 2 uur
+I22,SM use time,5,2 to 3 hours,2 tot 3 uur
+I22,SM use time,6,More than 3 hours,Meer dan 3 uur
+I23,Debates,1,which debates did u watch,Welke debatten heeft u de afgelopen weken gekeken?
+I24,information,1,Where and from whom do you usually get information about what is going on in society?,Waar en via wie krijg jij meestal informatie over wat er speelt in de maatschappij?
+I25,Channels,1,Through which channels have you obtained information about news and social developments in the past two weeks? ,Via welke kanalen heeft u zich in de afgelopen twee weken geïnformeerd over nieuws en maatschappelijke ontwikkelingen? 
+I26,Media,1,Which specific media organizations have you consulted in the past two weeks to stay informed about news and social developments?,Welke specifieke media-organisaties heeft u in de afgelopen twee weken geraadpleegd om op de hoogte te blijven van nieuws en maatschappelijke ontwikkelingen?
+I27,Podcasts,1,Which of the following specific podcasts have you listened to in the past two weeks to stay informed about news and social developments?,Welke van de volgende specifieke podcasts heeft u in de afgelopen twee weken geluisterd om op de hoogte te blijven van nieuws en maatschappelijke ontwikkelingen?
+I28,media_pers,1,"Are there specific media personalities you follow to obtain socially relevant information? If so, which media personalities?","Zijn er specifieke mediapersoonlijkheden die je volgt om  maatschappelijke relevante info te verkrijgen? Zo ja, welke mediapersoonlijkheden?"
+I29_q,Rank order media,1,Which three news media do you consider most important?,Welke drie nieuwsmedia vindt u het belangrijkst?
+I29,rank order media,1,NOS,NOS
+I29,rank order media,2,RTL Nieuws,RTL Nieuws
+I29,rank order media,3,Nu.nl,Nu.nl
+I29,rank order media,4,NRC,NRC
+I29,rank order media,5,de Volkskrant,de Volkskrant
+I29,rank order media,6,Trouw,Trouw
+I29,rank order media,7,AD,AD
+I29,rank order media,8,De Telegraaf,De Telegraaf
+I29,rank order media,9,De Correspondent,De Correspondent
+I29,rank order media,10,Follow the Money,Follow the Money
+I29,rank order media,11,Regionale of lokale krant,Regionale of lokale krant
+I29,rank order media,12,Regionale of lokale omroep,Regionale of lokale omroep
+I29,rank order media,13,Buitenlandse media,Buitenlandse media
+I29,rank order media,14,Vandaag Inside,Vandaag Inside
+I29,rank order media,15,Pauw en De Wit,Pauw en De Wit
+I29,rank order media,16,Goedemorgen Nederland,Goedemorgen Nederland
+I29,rank order media,17,Eva,Eva
+I29,rank order media,18,Cafe Kockelmann,Cafe Kockelmann
+I29,rank order media,19,Dit is de Week,Dit is de Week
+I29,rank order media,20,Buitenhof,Buitenhof
+I29,rank order media,21,WNL op Zondag,WNL op Zondag
+I29,rank order media,22,RTL Tonight,RTL Tonight
+I29,rank order media,23,Nieuws van de Dag,Nieuws van de Dag
